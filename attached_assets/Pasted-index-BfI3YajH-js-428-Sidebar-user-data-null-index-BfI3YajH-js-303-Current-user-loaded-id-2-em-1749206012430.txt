@@ -1,0 +1,52 @@
+index-BfI3YajH.js:428 Sidebar user data: null
+index-BfI3YajH.js:303 Current user loaded: {id: 2, email: 'wladyslaw.krawiec@gmail.com', username: 'wkrawiec', firstName: 'Walter', lastName: 'Taylor', …}
+index-BfI3YajH.js:428 Sidebar user data: {id: 2, email: 'wladyslaw.krawiec@gmail.com', username: 'wkrawiec', firstName: 'Walter', lastName: 'Taylor', …}
+index-BfI3YajH.js:428 Sidebar user data: {id: 2, email: 'wladyslaw.krawiec@gmail.com', username: 'wkrawiec', firstName: 'Walter', lastName: 'Taylor', …}
+index-BfI3YajH.js:40  ReferenceError: industry is not defined
+    at sje (index-BfI3YajH.js:420:83704)
+    at Bj (index-BfI3YajH.js:38:17018)
+    at yI (index-BfI3YajH.js:40:44058)
+    at pI (index-BfI3YajH.js:40:39790)
+    at Q8 (index-BfI3YajH.js:40:39718)
+    at ym (index-BfI3YajH.js:40:39570)
+    at K0 (index-BfI3YajH.js:40:35934)
+    at dI (index-BfI3YajH.js:40:34883)
+    at j (index-BfI3YajH.js:25:1559)
+    at MessagePort.N (index-BfI3YajH.js:25:1924)
+$0 @ index-BfI3YajH.js:40
+YT.r.callback @ index-BfI3YajH.js:40
+sO @ index-BfI3YajH.js:38
+SO @ index-BfI3YajH.js:40
+uI @ index-BfI3YajH.js:40
+K8 @ index-BfI3YajH.js:40
+J8 @ index-BfI3YajH.js:40
+ps @ index-BfI3YajH.js:40
+dI @ index-BfI3YajH.js:40
+j @ index-BfI3YajH.js:25
+N @ index-BfI3YajH.js:25
+index-BfI3YajH.js:420  Uncaught ReferenceError: industry is not defined
+    at sje (index-BfI3YajH.js:420:83704)
+    at Bj (index-BfI3YajH.js:38:17018)
+    at yI (index-BfI3YajH.js:40:44058)
+    at pI (index-BfI3YajH.js:40:39790)
+    at Q8 (index-BfI3YajH.js:40:39718)
+    at ym (index-BfI3YajH.js:40:39570)
+    at K0 (index-BfI3YajH.js:40:35934)
+    at dI (index-BfI3YajH.js:40:34883)
+    at j (index-BfI3YajH.js:25:1559)
+    at MessagePort.N (index-BfI3YajH.js:25:1924)
+sje @ index-BfI3YajH.js:420
+Bj @ index-BfI3YajH.js:38
+yI @ index-BfI3YajH.js:40
+pI @ index-BfI3YajH.js:40
+Q8 @ index-BfI3YajH.js:40
+ym @ index-BfI3YajH.js:40
+K0 @ index-BfI3YajH.js:40
+dI @ index-BfI3YajH.js:40
+j @ index-BfI3YajH.js:25
+N @ index-BfI3YajH.js:25
+[NEW] Explain Console errors by using Copilot in Edge: click
+         
+         to explain an error. 
+        Learn more
+        Don't show again

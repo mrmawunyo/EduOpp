@@ -1,0 +1,14 @@
+index-BIUEj69R.js:405 Applying filters: {industry: undefined, ageGroups: Array(1), location: undefined, startDate: undefined, endDate: undefined, …}
+index-BIUEj69R.js:405 Filter change received: {industry: undefined, ageGroups: Array(1), location: undefined, startDate: undefined, endDate: undefined, …}
+index-BIUEj69R.js:405 Filtering opportunity: Software Engineering Internship with filters: {industry: undefined, ageGroups: Array(1), location: undefined, startDate: undefined, endDate: undefined, …}
+index-BIUEj69R.js:405 Filtered out by ageGroups: Software Engineering Internship opp.ageGroup: ['18-21'] filter: ['14-16']
+index-BIUEj69R.js:405 Filtering opportunity: Virtual Coding Workshop Series with filters: {industry: undefined, ageGroups: Array(1), location: undefined, startDate: undefined, endDate: undefined, …}
+index-BIUEj69R.js:405 Filtered out by ageGroups: Virtual Coding Workshop Series opp.ageGroup: ['16-18'] filter: ['14-16']
+index-BIUEj69R.js:405 Filtering opportunity: Financial Literacy Workshop with filters: {industry: undefined, ageGroups: Array(1), location: undefined, startDate: undefined, endDate: undefined, …}
+index-BIUEj69R.js:405 Filtered out by ageGroups: Financial Literacy Workshop opp.ageGroup: ['16-18'] filter: ['14-16']
+index-BIUEj69R.js:405 Filtering opportunity: Women in Engineering Conference with filters: {industry: undefined, ageGroups: Array(1), location: undefined, startDate: undefined, endDate: undefined, …}
+index-BIUEj69R.js:405 Filtered out by ageGroups: Women in Engineering Conference opp.ageGroup: ['16-18'] filter: ['14-16']
+index-BIUEj69R.js:405 Filtering opportunity: Government Internship Program with filters: {industry: undefined, ageGroups: Array(1), location: undefined, startDate: undefined, endDate: undefined, …}
+index-BIUEj69R.js:405 Filtered out by ageGroups: Government Internship Program opp.ageGroup: ['18-21'] filter: ['14-16']
+index-BIUEj69R.js:405 Filtering opportunity: STEM Scholarship Program with filters: {industry: undefined, ageGroups: Array(1), location: undefined, startDate: undefined, endDate: undefined, …}
+index-BIUEj69R.js:405 Filtered out by ageGroups: STEM Scholarship Program opp.ageGroup: ['16-18']0: "16-18"length: 1[[Prototype]]: Array(0) filter: ['14-16']

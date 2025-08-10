@@ -1,0 +1,114 @@
+Sidebar.tsx:16 Sidebar user data: {id: 2, email: 'wladyslaw.krawiec@gmail.com', username: 'wkrawiec', firstName: 'Walter', lastName: 'Taylor', …}
+user-management.tsx:112  Uncaught TypeError: createUserSchema.omit is not a function
+    at UserManagement (user-management.tsx:112:24)
+    at renderWithHooks (react-dom.development.js:15486:18)
+    at mountIndeterminateComponent (react-dom.development.js:20103:13)
+    at beginWork (react-dom.development.js:21626:16)
+    at HTMLUnknownElement.callCallback2 (react-dom.development.js:4164:14)
+    at Object.invokeGuardedCallbackDev (react-dom.development.js:4213:16)
+    at invokeGuardedCallback (react-dom.development.js:4277:31)
+    at beginWork$1 (react-dom.development.js:27490:7)
+    at performUnitOfWork (react-dom.development.js:26596:12)
+    at workLoopSync (react-dom.development.js:26505:5)
+UserManagement @ user-management.tsx:112
+renderWithHooks @ react-dom.development.js:15486
+mountIndeterminateComponent @ react-dom.development.js:20103
+beginWork @ react-dom.development.js:21626
+callCallback2 @ react-dom.development.js:4164
+invokeGuardedCallbackDev @ react-dom.development.js:4213
+invokeGuardedCallback @ react-dom.development.js:4277
+beginWork$1 @ react-dom.development.js:27490
+performUnitOfWork @ react-dom.development.js:26596
+workLoopSync @ react-dom.development.js:26505
+renderRootSync @ react-dom.development.js:26473
+performSyncWorkOnRoot @ react-dom.development.js:26124
+flushSyncCallbacks @ react-dom.development.js:12042
+(anonymous) @ react-dom.development.js:25690
+Sidebar.tsx:16 Sidebar user data: {id: 2, email: 'wladyslaw.krawiec@gmail.com', username: 'wkrawiec', firstName: 'Walter', lastName: 'Taylor', …}
+[NEW] Explain Console errors by using Copilot in Edge: click
+         
+         to explain an error. 
+        Learn more
+        Don't show again
+user-management.tsx:112  Uncaught TypeError: createUserSchema.omit is not a function
+    at UserManagement (user-management.tsx:112:24)
+    at renderWithHooks (react-dom.development.js:15486:18)
+    at mountIndeterminateComponent (react-dom.development.js:20103:13)
+    at beginWork (react-dom.development.js:21626:16)
+    at HTMLUnknownElement.callCallback2 (react-dom.development.js:4164:14)
+    at Object.invokeGuardedCallbackDev (react-dom.development.js:4213:16)
+    at invokeGuardedCallback (react-dom.development.js:4277:31)
+    at beginWork$1 (react-dom.development.js:27490:7)
+    at performUnitOfWork (react-dom.development.js:26596:12)
+    at workLoopSync (react-dom.development.js:26505:5)
+UserManagement @ user-management.tsx:112
+renderWithHooks @ react-dom.development.js:15486
+mountIndeterminateComponent @ react-dom.development.js:20103
+beginWork @ react-dom.development.js:21626
+callCallback2 @ react-dom.development.js:4164
+invokeGuardedCallbackDev @ react-dom.development.js:4213
+invokeGuardedCallback @ react-dom.development.js:4277
+beginWork$1 @ react-dom.development.js:27490
+performUnitOfWork @ react-dom.development.js:26596
+workLoopSync @ react-dom.development.js:26505
+renderRootSync @ react-dom.development.js:26473
+recoverFromConcurrentError @ react-dom.development.js:25889
+performSyncWorkOnRoot @ react-dom.development.js:26135
+flushSyncCallbacks @ react-dom.development.js:12042
+(anonymous) @ react-dom.development.js:25690
+react-dom.development.js:18704  The above error occurred in the <UserManagement> component:
+
+    at UserManagement (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/pages/user-management.tsx:91:20)
+    at ProtectedRoute (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/App.tsx?t=1749141454380&v=d3jynq8iZ44uR_4lZoyq0:42:38)
+    at main
+    at div
+    at div
+    at MainLayout (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/layout/MainLayout.tsx?t=1749141454380:21:38)
+    at Route (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=aa358a7b:323:16)
+    at Switch (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=aa358a7b:379:17)
+    at Router
+    at AuthProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/providers/AuthProvider.tsx:24:32)
+    at Provider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-E7IAXTU4.js?v=aa358a7b:38:15)
+    at TooltipProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=aa358a7b:61:5)
+    at ThemeProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/providers/ThemeProvider.tsx:25:3)
+    at QueryClientProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=aa358a7b:2805:3)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries.
+logCapturedError @ react-dom.development.js:18704
+update.callback @ react-dom.development.js:18737
+callCallback @ react-dom.development.js:15036
+commitUpdateQueue @ react-dom.development.js:15057
+commitLayoutEffectOnFiber @ react-dom.development.js:23430
+commitLayoutMountEffects_complete @ react-dom.development.js:24727
+commitLayoutEffects_begin @ react-dom.development.js:24713
+commitLayoutEffects @ react-dom.development.js:24651
+commitRootImpl @ react-dom.development.js:26862
+commitRoot @ react-dom.development.js:26721
+performSyncWorkOnRoot @ react-dom.development.js:26156
+flushSyncCallbacks @ react-dom.development.js:12042
+(anonymous) @ react-dom.development.js:25690
+react-dom.development.js:12056  Uncaught TypeError: createUserSchema.omit is not a function
+    at UserManagement (user-management.tsx:112:24)
+    at renderWithHooks (react-dom.development.js:15486:18)
+    at mountIndeterminateComponent (react-dom.development.js:20103:13)
+    at beginWork (react-dom.development.js:21626:16)
+    at beginWork$1 (react-dom.development.js:27465:14)
+    at performUnitOfWork (react-dom.development.js:26596:12)
+    at workLoopSync (react-dom.development.js:26505:5)
+    at renderRootSync (react-dom.development.js:26473:7)
+    at recoverFromConcurrentError (react-dom.development.js:25889:20)
+    at performSyncWorkOnRoot (react-dom.development.js:26135:20)
+UserManagement @ user-management.tsx:112
+renderWithHooks @ react-dom.development.js:15486
+mountIndeterminateComponent @ react-dom.development.js:20103
+beginWork @ react-dom.development.js:21626
+beginWork$1 @ react-dom.development.js:27465
+performUnitOfWork @ react-dom.development.js:26596
+workLoopSync @ react-dom.development.js:26505
+renderRootSync @ react-dom.development.js:26473
+recoverFromConcurrentError @ react-dom.development.js:25889
+performSyncWorkOnRoot @ react-dom.development.js:26135
+flushSyncCallbacks @ react-dom.development.js:12042
+(anonymous) @ react-dom.development.js:25690

@@ -1,0 +1,55 @@
+Heading	Description
+Name	Manage opportunities
+ID	1
+Description	steps needed to allow the users to create, update, view or delete an opportunity/announcement in the system.
+Actors	Teacher, Admin, Moderator
+Pre-conditions	Teacher is logged onto the system.
+
+
+Main flow
+
+Creating an opportunity	User selects “Add new opportunity”.
+The system prompt user to  document opportunity details.
+User enter details and submits.
+The system saves the opportunity, confirm success and makes it available to students.
+Alternative flows
+
+Viewing an opportunity
+
+
+Editing an opportunity
+
+
+
+Delete an opportunity	The user selects view opportunities
+The system displays a list of available opportunities
+The user selects one, the system displays its details.
+
+The user selects an opportunity to edit
+The system allows modifications
+The user saves changes, and the user updates the opportunity.
+
+The user selects an opportunity to delete
+The system asks for confirmation 
+If confirmed, the system deletes the opportunity.
+Post-condition	The opportunity is created, updated, deleted or viewed as needed.
+Exceptions	E1. Missing required fields (during creation or editing)
+The teacher submits an opportunity without filling in all the required fields
+System response: Display an error message prompting the user to complete missing fields.
+
+E2. Duplicate opportunity title 
+The user tries to create an opportunity with a title that already exists.
+System Response: Rejects the submission and prompt the user to enter a unique title.
+
+E3. Unauthorised action
+An unauthorised actor (eg. student) tries to create or modify an opportunity.
+
+System response: Denies access and displays a “permission denied” message.
+
+E4. Opportunity not found (Editing/ Deleting an opportunity)
+The teacher attempts to edit or delete an opportunity that not longer exists (eg deleted by another teacher).
+
+System response: Display error message  stating “Opportunity not found”
+
+Includes	Upload document
+Notes and issues	

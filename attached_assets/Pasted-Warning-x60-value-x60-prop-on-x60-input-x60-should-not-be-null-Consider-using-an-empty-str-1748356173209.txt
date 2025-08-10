@@ -1,0 +1,111 @@
+Warning: &#x60;value&#x60; prop on &#x60;input&#x60; should not be null. Consider using an empty string to clear the component or &#x60;undefined&#x60; for uncontrolled components.
+    at input
+    at _c (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/input.tsx:20:11)
+    at https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-EVLBUYTV.js?v=aa358a7b:79:13
+    at https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-EVLBUYTV.js?v=aa358a7b:56:13
+    at https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/form.tsx:130:9
+    at div
+    at https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/form.tsx:72:6
+    at Controller (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-4BFJKWC4.js?v=aa358a7b:298:35)
+    at FormField (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/form.tsx:33:6)
+    at div
+    at div
+    at form
+    at FormProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-4BFJKWC4.js?v=aa358a7b:102:11)
+    at div
+    at _c9 (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/card.tsx:114:12)
+    at div
+    at _c (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/card.tsx:20:11)
+    at OpportunityForm (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/opportunities/OpportunityForm.tsx:87:3)
+    at div
+    at div
+    at Opportunities (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/pages/opportunities.tsx:34:3)
+    at ProtectedRoute (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/App.tsx?v=0OkAjNGJntKtmyOjyFiS1:42:38)
+    at main
+    at div
+    at div
+    at MainLayout (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/layout/MainLayout.tsx:21:38)
+    at Route (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=aa358a7b:323:16)
+    at Switch (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=aa358a7b:379:17)
+    at Router
+    at AuthProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/providers/AuthProvider.tsx:24:32)
+    at Provider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-E7IAXTU4.js?v=aa358a7b:38:15)
+    at TooltipProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=aa358a7b:61:5)
+    at ThemeProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/providers/ThemeProvider.tsx:25:3)
+    at QueryClientProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=aa358a7b:2805:3)
+    at App
+at input
+at _c (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/input.tsx:20:11)
+at https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-EVLBUYTV.js?v=aa358a7b:79:13
+at https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-EVLBUYTV.js?v=aa358a7b:56:13
+at https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/form.tsx:130:9
+at div
+at https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/form.tsx:72:6
+at Controller (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-4BFJKWC4.js?v=aa358a7b:298:35)
+at FormField (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/form.tsx:33:6)
+at div
+at div
+at form
+at FormProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-4BFJKWC4.js?v=aa358a7b:102:11)
+at div
+at _c9 (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/card.tsx:114:12)
+at div
+at _c (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/card.tsx:20:11)
+at OpportunityForm (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/opportunities/OpportunityForm.tsx:87:3)
+at div
+at div
+at Opportunities (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/pages/opportunities.tsx:34:3)
+at ProtectedRoute (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/App.tsx?v=0OkAjNGJntKtmyOjyFiS1:42:38)
+at main
+at div
+at div
+at MainLayout (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/layout/MainLayout.tsx:21:38)
+at Route (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=aa358a7b:323:16)
+at Switch (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=aa358a7b:379:17)
+at Router
+at AuthProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/providers/AuthProvider.tsx:24:32)
+at Provider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-E7IAXTU4.js?v=aa358a7b:38:15)
+at TooltipProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=aa358a7b:61:5)
+at ThemeProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/providers/ThemeProvider.tsx:25:3)
+at QueryClientProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=aa358a7b:2805:3)
+at App
+at t.value (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Warning: A component is changing a controlled input to be uncontrolled. This is likely caused by the value changing from a defined to undefined, which should not happen. Decide between using a controlled or uncontrolled input element for the lifetime of the component. More info: https://reactjs.org/link/controlled-components
+    at input
+    at _c (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/input.tsx:20:11)
+    at https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-EVLBUYTV.js?v=aa358a7b:79:13
+    at https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-EVLBUYTV.js?v=aa358a7b:56:13
+    at https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/form.tsx:130:9
+    at div
+    at https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/form.tsx:72:6
+    at Controller (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-4BFJKWC4.js?v=aa358a7b:298:35)
+    at FormField (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/form.tsx:33:6)
+    at div
+    at div
+    at form
+    at FormProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-4BFJKWC4.js?v=aa358a7b:102:11)
+    at div
+    at _c9 (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/card.tsx:114:12)
+    at div
+    at _c (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/card.tsx:20:11)
+    at OpportunityForm (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/opportunities/OpportunityForm.tsx:87:3)
+    at div
+    at div
+    at Opportunities (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/pages/opportunities.tsx:34:3)
+    at ProtectedRoute (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/App.tsx?v=0OkAjNGJntKtmyOjyFiS1:42:38)
+    at main
+    at div
+    at div
+    at MainLayout (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/layout/MainLayout.tsx:21:38)
+    at Route (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=aa358a7b:323:16)
+    at Switch (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=aa358a7b:379:17)
+    at Router
+    at AuthProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/providers/AuthProvider.tsx:24:32)
+    at Provider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-E7IAXTU4.js?v=aa358a7b:38:15)
+    at TooltipProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=aa358a7b:61:5)
+    at ThemeProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/providers/ThemeProvider.tsx:25:3)
+    at QueryClientProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=aa358a7b:2805:3)
+    at App

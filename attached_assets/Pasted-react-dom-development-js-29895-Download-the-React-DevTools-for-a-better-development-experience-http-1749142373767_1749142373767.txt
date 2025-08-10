@@ -1,0 +1,150 @@
+react-dom.development.js:29895 Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools
+Sidebar.tsx:16 Sidebar user data: null
+api/auth/current-user:1 
+            
+            
+            Failed to load resource: the server responded with a status of 401 (Unauthorized)
+Sidebar.tsx:16 Sidebar user data: null
+AuthProvider.tsx:93 Complete user data loaded after login: Object
+Sidebar.tsx:16 Sidebar user data: Object
+react-dom.development.js:86  Warning: validateDOMNesting(...): <a> cannot appear as a descendant of <a>.
+    at a
+    at a
+    at https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=aa358a7b:337:18
+    at li
+    at ul
+    at nav
+    at aside
+    at Sidebar (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/layout/Sidebar.tsx:21:35)
+    at div
+    at MainLayout (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/layout/MainLayout.tsx:21:38)
+    at Route (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=aa358a7b:323:16)
+    at Switch (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=aa358a7b:379:17)
+    at Router
+    at AuthProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/providers/AuthProvider.tsx:24:32)
+    at Provider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-E7IAXTU4.js?v=aa358a7b:38:15)
+    at TooltipProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=aa358a7b:61:5)
+    at ThemeProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/providers/ThemeProvider.tsx:25:3)
+    at QueryClientProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=aa358a7b:2805:3)
+    at App
+printWarning @ react-dom.development.js:86
+Sidebar.tsx:16 Sidebar user data: Object
+form.tsx:47  Uncaught TypeError: Cannot destructure property 'getFieldState' of 'useFormContext(...)' as it is null.
+    at useFormField (form.tsx:47:11)
+    at form.tsx:93:33
+    at renderWithHooks (react-dom.development.js:15486:18)
+    at updateForwardRef (react-dom.development.js:19245:20)
+    at beginWork (react-dom.development.js:21675:16)
+    at HTMLUnknownElement.callCallback2 (react-dom.development.js:4164:14)
+    at Object.invokeGuardedCallbackDev (react-dom.development.js:4213:16)
+    at invokeGuardedCallback (react-dom.development.js:4277:31)
+    at beginWork$1 (react-dom.development.js:27490:7)
+    at performUnitOfWork (react-dom.development.js:26596:12)
+form.tsx:47  Uncaught TypeError: Cannot destructure property 'getFieldState' of 'useFormContext(...)' as it is null.
+    at useFormField (form.tsx:47:11)
+    at form.tsx:93:33
+    at renderWithHooks (react-dom.development.js:15486:18)
+    at updateForwardRef (react-dom.development.js:19245:20)
+    at beginWork (react-dom.development.js:21675:16)
+    at HTMLUnknownElement.callCallback2 (react-dom.development.js:4164:14)
+    at Object.invokeGuardedCallbackDev (react-dom.development.js:4213:16)
+    at invokeGuardedCallback (react-dom.development.js:4277:31)
+    at beginWork$1 (react-dom.development.js:27490:7)
+    at performUnitOfWork (react-dom.development.js:26596:12)
+Sidebar.tsx:16 Sidebar user data: Object
+form.tsx:47  Uncaught TypeError: Cannot destructure property 'getFieldState' of 'useFormContext(...)' as it is null.
+    at useFormField (form.tsx:47:11)
+    at form.tsx:93:33
+    at renderWithHooks (react-dom.development.js:15486:18)
+    at updateForwardRef (react-dom.development.js:19245:20)
+    at beginWork (react-dom.development.js:21675:16)
+    at HTMLUnknownElement.callCallback2 (react-dom.development.js:4164:14)
+    at Object.invokeGuardedCallbackDev (react-dom.development.js:4213:16)
+    at invokeGuardedCallback (react-dom.development.js:4277:31)
+    at beginWork$1 (react-dom.development.js:27490:7)
+    at performUnitOfWork (react-dom.development.js:26596:12)
+form.tsx:47  Uncaught TypeError: Cannot destructure property 'getFieldState' of 'useFormContext(...)' as it is null.
+    at useFormField (form.tsx:47:11)
+    at form.tsx:93:33
+    at renderWithHooks (react-dom.development.js:15486:18)
+    at updateForwardRef (react-dom.development.js:19245:20)
+    at beginWork (react-dom.development.js:21675:16)
+    at HTMLUnknownElement.callCallback2 (react-dom.development.js:4164:14)
+    at Object.invokeGuardedCallbackDev (react-dom.development.js:4213:16)
+    at invokeGuardedCallback (react-dom.development.js:4277:31)
+    at beginWork$1 (react-dom.development.js:27490:7)
+    at performUnitOfWork (react-dom.development.js:26596:12)
+react-dom.development.js:18704  The above error occurred in the <FormLabel> component:
+
+    at https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/form.tsx:96:6
+    at div
+    at form
+    at div
+    at _c9 (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/card.tsx:114:12)
+    at div
+    at _c (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/card.tsx:20:11)
+    at div
+    at UserManagement (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/pages/user-management.tsx:99:20)
+    at ProtectedRoute (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/App.tsx?v=ZAt40diuH3Mohy1KIQi2M:42:38)
+    at main
+    at div
+    at div
+    at MainLayout (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/layout/MainLayout.tsx:21:38)
+    at Route (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=aa358a7b:323:16)
+    at Switch (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=aa358a7b:379:17)
+    at Router
+    at AuthProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/providers/AuthProvider.tsx:24:32)
+    at Provider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-E7IAXTU4.js?v=aa358a7b:38:15)
+    at TooltipProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=aa358a7b:61:5)
+    at ThemeProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/providers/ThemeProvider.tsx:25:3)
+    at QueryClientProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=aa358a7b:2805:3)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries.
+logCapturedError @ react-dom.development.js:18704
+react-dom.development.js:18704  The above error occurred in the <FormLabel> component:
+
+    at https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/form.tsx:96:6
+    at div
+    at form
+    at div
+    at _c9 (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/card.tsx:114:12)
+    at div
+    at _c (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/ui/card.tsx:20:11)
+    at div
+    at UserManagement (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/pages/user-management.tsx:99:20)
+    at ProtectedRoute (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/App.tsx?v=ZAt40diuH3Mohy1KIQi2M:42:38)
+    at main
+    at div
+    at div
+    at MainLayout (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/components/layout/MainLayout.tsx:21:38)
+    at Route (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=aa358a7b:323:16)
+    at Switch (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=aa358a7b:379:17)
+    at Router
+    at AuthProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/providers/AuthProvider.tsx:24:32)
+    at Provider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-E7IAXTU4.js?v=aa358a7b:38:15)
+    at TooltipProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=aa358a7b:61:5)
+    at ThemeProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/src/providers/ThemeProvider.tsx:25:3)
+    at QueryClientProvider (https://abb2db9f-0c5b-4684-bbb6-b522eb7a4c7b-00-2yr4xjnzwe8i3.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=aa358a7b:2805:3)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries.
+logCapturedError @ react-dom.development.js:18704
+react-dom.development.js:12056  Uncaught TypeError: Cannot destructure property 'getFieldState' of 'useFormContext(...)' as it is null.
+    at useFormField (form.tsx:47:11)
+    at form.tsx:93:33
+    at renderWithHooks (react-dom.development.js:15486:18)
+    at updateForwardRef (react-dom.development.js:19245:20)
+    at beginWork (react-dom.development.js:21675:16)
+    at beginWork$1 (react-dom.development.js:27465:14)
+    at performUnitOfWork (react-dom.development.js:26596:12)
+    at workLoopSync (react-dom.development.js:26505:5)
+    at renderRootSync (react-dom.development.js:26473:7)
+    at recoverFromConcurrentError (react-dom.development.js:25889:20)
+[NEW] Explain Console errors by using Copilot in Edge: click
+         
+         to explain an error. 
+        Learn more
+        Don't show again

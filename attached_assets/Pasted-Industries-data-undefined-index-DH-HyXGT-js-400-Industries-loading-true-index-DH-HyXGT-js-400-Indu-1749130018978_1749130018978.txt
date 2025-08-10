@@ -1,0 +1,114 @@
+Industries data: undefined
+index-DH_HyXGT.js:400 Industries loading: true
+index-DH_HyXGT.js:400 Industries error: null
+index-DH_HyXGT.js:400 Opportunity types data: undefined
+index-DH_HyXGT.js:400 Opportunity types loading: true
+index-DH_HyXGT.js:400 Opportunity types error: null
+index-DH_HyXGT.js:400 Industry loaded from DB: technology
+index-DH_HyXGT.js:400 Field changed: title, new value: Software Engineering Internship
+index-DH_HyXGT.js:400 Field changed: title, new value: Software Engineering Internship
+index-DH_HyXGT.js:400 Field changed: organization, new value: TechCorp Inc.
+index-DH_HyXGT.js:400 Field changed: organization, new value: TechCorp Inc.
+index-DH_HyXGT.js:400 Field changed: description, new value: Gain hands-on experience in software development with our engineering team.
+index-DH_HyXGT.js:400 Field changed: description, new value: Gain hands-on experience in software development with our engineering team.
+index-DH_HyXGT.js:400 Field changed: imageUrl, new value: 
+index-DH_HyXGT.js:400 Field changed: imageUrl, new value: 
+index-DH_HyXGT.js:400 Field changed: dateRange, new value: {from: Sun Jun 01 2025 01:00:00 GMT+0100 (British Summer Time), to: Sun Aug 31 2025 01:00:00 GMT+0100 (British Summer Time)}
+index-DH_HyXGT.js:400 Field changed: dateRange, new value: {from: Sun Jun 01 2025 01:00:00 GMT+0100 (British Summer Time), to: Sun Aug 31 2025 01:00:00 GMT+0100 (British Summer Time)}
+index-DH_HyXGT.js:400 Field changed: dateRange, new value: {from: Sun Jun 01 2025 01:00:00 GMT+0100 (British Summer Time), to: Sun Aug 31 2025 01:00:00 GMT+0100 (British Summer Time)}
+index-DH_HyXGT.js:400 Field changed: applicationDeadline, new value: Tue Apr 15 2025 01:00:00 GMT+0100 (British Summer Time)
+index-DH_HyXGT.js:400 Field changed: applicationDeadline, new value: Tue Apr 15 2025 01:00:00 GMT+0100 (British Summer Time)
+index-DH_HyXGT.js:400 Field changed: isVirtual, new value: false
+index-DH_HyXGT.js:400 Field changed: isVirtual, new value: false
+index-DH_HyXGT.js:400 Field changed: isVirtual, new value: false
+index-DH_HyXGT.js:400 Field changed: location, new value: San Francisco, CA
+index-DH_HyXGT.js:400 Field changed: location, new value: San Francisco, CA
+index-DH_HyXGT.js:400 Field changed: industry, new value: technology
+index-DH_HyXGT.js:400 Field changed: industry, new value: technology
+index-DH_HyXGT.js:400 Field changed: ageGroup, new value: ['18-21']
+index-DH_HyXGT.js:400 Field changed: ageGroup, new value: ['18-21']
+index-DH_HyXGT.js:400 Field changed: opportunityType, new value: internship
+index-DH_HyXGT.js:400 Field changed: opportunityType, new value: internship
+index-DH_HyXGT.js:400 Field changed: compensation, new value: $25/hour
+index-DH_HyXGT.js:400 Field changed: compensation, new value: $25/hour
+index-DH_HyXGT.js:400 Field changed: ethnicityFocus, new value: 
+index-DH_HyXGT.js:400 Field changed: ethnicityFocus, new value: 
+index-DH_HyXGT.js:400 Field changed: genderFocus, new value: 
+index-DH_HyXGT.js:400 Field changed: genderFocus, new value: 
+index-DH_HyXGT.js:400 Field changed: contactPerson, new value: Jane Smith
+index-DH_HyXGT.js:400 Field changed: contactPerson, new value: Jane Smith
+index-DH_HyXGT.js:400 Field changed: contactEmail, new value: recruiting@techcorp.example
+index-DH_HyXGT.js:400 Field changed: contactEmail, new value: recruiting@techcorp.example
+index-DH_HyXGT.js:400 Field changed: externalUrl, new value: https://techcorp.example/careers
+index-DH_HyXGT.js:400 Field changed: externalUrl, new value: https://techcorp.example/careers
+index-DH_HyXGT.js:400 Field changed: details, new value: This internship will expose students to modern software development practices including Agile methodologies, test-driven development, and continuous integration.
+index-DH_HyXGT.js:400 Field changed: details, new value: This internship will expose students to modern software development practices including Agile methodologies, test-driven development, and continuous integration.
+index-DH_HyXGT.js:400 Field changed: requirements, new value: Currently pursuing a degree in Computer Science or related field. Knowledge of at least one programming language.
+index-DH_HyXGT.js:400 Field changed: requirements, new value: Currently pursuing a degree in Computer Science or related field. Knowledge of at least one programming language.
+index-DH_HyXGT.js:400 Field changed: applicationProcess, new value: Submit resume and cover letter via our online portal.
+index-DH_HyXGT.js:400 Field changed: applicationProcess, new value: Submit resume and cover letter via our online portal.
+index-DH_HyXGT.js:400 Field changed: isGlobal, new value: false
+index-DH_HyXGT.js:400 Field changed: schoolId, new value: 1
+index-DH_HyXGT.js:400 Field changed: visibleToSchools, new value: (2) [1, 2]
+index-DH_HyXGT.js:400 Field changed: id, new value: 655
+index-DH_HyXGT.js:400 Field changed: startDate, new value: 2025-06-01T00:00:00.000Z
+index-DH_HyXGT.js:400 Field changed: endDate, new value: 2025-08-31T00:00:00.000Z
+index-DH_HyXGT.js:400 Field changed: createdById, new value: 3
+index-DH_HyXGT.js:400 Field changed: createdAt, new value: 2025-06-05T13:24:08.469Z
+index-DH_HyXGT.js:400 Field changed: updatedAt, new value: 2025-06-05T13:24:08.469Z
+index-DH_HyXGT.js:400 Form initialized with data: {id: 655, title: 'Software Engineering Internship', organization: 'TechCorp Inc.', description: 'Gain hands-on experience in software development with our engineering team.', details: 'This internship will expose students to modern sof…t-driven development, and continuous integration.', …}
+index-DH_HyXGT.js:400 Opportunity type from data: internship
+index-DH_HyXGT.js:400 Industry from data: technology
+index-DH_HyXGT.js:400 Age group from data: ['18-21']
+index-DH_HyXGT.js:400 Industries data: undefined
+index-DH_HyXGT.js:400 Industries loading: true
+index-DH_HyXGT.js:400 Industries error: null
+index-DH_HyXGT.js:400 Opportunity types data: undefined
+index-DH_HyXGT.js:400 Opportunity types loading: true
+index-DH_HyXGT.js:400 Opportunity types error: null
+index-DH_HyXGT.js:400 Field changed: industry, new value: 
+index-DH_HyXGT.js:400 Field changed: industry, new value: 
+index-DH_HyXGT.js:400 Field changed: opportunityType, new value: 
+index-DH_HyXGT.js:400 Field changed: opportunityType, new value: 
+index-DH_HyXGT.js:400 Industries data: undefined
+index-DH_HyXGT.js:400 Industries loading: true
+index-DH_HyXGT.js:400 Industries error: null
+index-DH_HyXGT.js:400 Opportunity types data: undefined
+index-DH_HyXGT.js:400 Opportunity types loading: true
+index-DH_HyXGT.js:400 Opportunity types error: null
+index-DH_HyXGT.js:400 Industries data: undefined
+index-DH_HyXGT.js:400 Industries loading: true
+index-DH_HyXGT.js:400 Industries error: null
+index-DH_HyXGT.js:400 Opportunity types data: undefined
+index-DH_HyXGT.js:400 Opportunity types loading: true
+index-DH_HyXGT.js:400 Opportunity types error: null
+index-DH_HyXGT.js:400 Industries data: (8) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]
+index-DH_HyXGT.js:400 Industries loading: false
+index-DH_HyXGT.js:400 Industries error: null
+index-DH_HyXGT.js:400 Opportunity types data: undefined
+index-DH_HyXGT.js:400 Opportunity types loading: true
+index-DH_HyXGT.js:400 Opportunity types error: null
+index-DH_HyXGT.js:400 Industries data: (8) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]
+index-DH_HyXGT.js:400 Industries loading: false
+index-DH_HyXGT.js:400 Industries error: null
+index-DH_HyXGT.js:400 Opportunity types data: undefined
+index-DH_HyXGT.js:400 Opportunity types loading: true
+index-DH_HyXGT.js:400 Opportunity types error: null
+index-DH_HyXGT.js:400 Industries data: (8) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]
+index-DH_HyXGT.js:400 Industries loading: false
+index-DH_HyXGT.js:400 Industries error: null
+index-DH_HyXGT.js:400 Opportunity types data: (6) [{…}, {…}, {…}, {…}, {…}, {…}]
+index-DH_HyXGT.js:400 Opportunity types loading: false
+index-DH_HyXGT.js:400 Opportunity types error: null
+index-DH_HyXGT.js:400 Industries data: (8) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]0: {id: 16, category: 'industry', value: 'arts', label: 'Arts & Entertainment', isActive: true, …}1: {id: 14, category: 'industry', value: 'education', label: 'Education', isActive: true, …}2: {id: 15, category: 'industry', value: 'engineering', label: 'Engineering', isActive: true, …}3: {id: 13, category: 'industry', value: 'finance', label: 'Finance', isActive: true, …}4: {id: 18, category: 'industry', value: 'government', label: 'Government', isActive: true, …}5: {id: 12, category: 'industry', value: 'healthcare', label: 'Healthcare', isActive: true, …}6: {id: 17, category: 'industry', value: 'nonprofit', label: 'Non-profit', isActive: true, …}7: {id: 11, category: 'industry', value: 'technology', label: 'Technology', isActive: true, …}length: 8[[Prototype]]: Array(0)
+index-DH_HyXGT.js:400 Industries loading: false
+index-DH_HyXGT.js:400 Industries error: null
+index-DH_HyXGT.js:400 Opportunity types data: (6) [{…}, {…}, {…}, {…}, {…}, {…}]0: {id: 23, category: 'opportunityType', value: 'course', label: 'Course', isActive: true, …}1: {id: 19, category: 'opportunityType', value: 'internship', label: 'Internship', isActive: true, …}2: {id: 20, category: 'opportunityType', value: 'job', label: 'Job', isActive: true, …}3: {id: 24, category: 'opportunityType', value: 'scholarship', label: 'Scholarship', isActive: true, …}4: {id: 21, category: 'opportunityType', value: 'volunteer', label: 'Volunteer', isActive: true, …}5: {id: 22, category: 'opportunityType', value: 'workshop', label: 'Workshop', isActive: true, …}length: 6[[Prototype]]: Array(0)
+index-DH_HyXGT.js:400 Opportunity types loading: false
+index-DH_HyXGT.js:400 Opportunity types error: null
+index-DH_HyXGT.js:400 Industries data: (8) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]
+index-DH_HyXGT.js:400 Industries loading: false
+index-DH_HyXGT.js:400 Industries error: null
+index-DH_HyXGT.js:400 Opportunity types data: (6) [{…}, {…}, {…}, {…}, {…}, {…}]0: {id: 23, category: 'opportunityType', value: 'course', label: 'Course', isActive: true, …}1: {id: 19, category: 'opportunityType', value: 'internship', label: 'Internship', isActive: true, …}2: {id: 20, category: 'opportunityType', value: 'job', label: 'Job', isActive: true, …}3: {id: 24, category: 'opportunityType', value: 'scholarship', label: 'Scholarship', isActive: true, …}4: {id: 21, category: 'opportunityType', value: 'volunteer', label: 'Volunteer', isActive: true, …}5: {id: 22, category: 'opportunityType', value: 'workshop', label: 'Workshop', isActive: true, …}length: 6[[Prototype]]: Array(0)
+index-DH_HyXGT.js:400 Opportunity types loading: false
+index-DH_HyXGT.js:400 Opportunity types error: null

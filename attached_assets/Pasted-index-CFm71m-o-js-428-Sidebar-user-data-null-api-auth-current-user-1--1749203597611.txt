@@ -1,0 +1,53 @@
+index-CFm71m_o.js:428 Sidebar user data: null
+api/auth/current-user:1 
+            
+            
+            Failed to load resource: the server responded with a status of 401 ()
+index-CFm71m_o.js:428 Sidebar user data: null
+index-CFm71m_o.js:303 Complete user data loaded after login: Object
+index-CFm71m_o.js:428 Sidebar user data: Object
+index-CFm71m_o.js:428 Sidebar user data: Object
+index-CFm71m_o.js:428 Sidebar user data: Object
+api/student-preferences:1 
+            
+            
+            Failed to load resource: the server responded with a status of 401 ()
+api/opportunities/undefined:1 
+            
+            
+            Failed to load resource: the server responded with a status of 400 ()
+[NEW] Explain Console errors by using Copilot in Edge: click
+         
+         to explain an error. 
+        Learn more
+        Don't show again
+index-CFm71m_o.js:48 
+            
+            
+            POST https://15161492-8f10-451d-b524-20e1949b0f22.picard.prod.repl.run/api/student-preferences 401 (Unauthorized)
+Dt @ index-CFm71m_o.js:48
+set @ index-CFm71m_o.js:343
+fn @ index-CFm71m_o.js:48
+v @ index-CFm71m_o.js:48
+start @ index-CFm71m_o.js:48
+execute @ index-CFm71m_o.js:48
+await in execute
+mutate @ index-CFm71m_o.js:48
+(anonymous) @ index-CFm71m_o.js:48
+f @ index-CFm71m_o.js:420
+(anonymous) @ index-CFm71m_o.js:303
+await in (anonymous)
+g @ index-CFm71m_o.js:420
+yB @ index-CFm71m_o.js:37
+xB @ index-CFm71m_o.js:37
+bB @ index-CFm71m_o.js:37
+Z_ @ index-CFm71m_o.js:37
+vT @ index-CFm71m_o.js:37
+(anonymous) @ index-CFm71m_o.js:37
+Kj @ index-CFm71m_o.js:40
+Bk @ index-CFm71m_o.js:37
+qg @ index-CFm71m_o.js:37
+jj @ index-CFm71m_o.js:37
+$B @ index-CFm71m_o.js:37
+index-CFm71m_o.js:428 Sidebar user data: {id: 2, email: 'wladyslaw.krawiec@gmail.com', username: 'wkrawiec', firstName: 'Walter', lastName: 'Taylor', …}
+index-CFm71m_o.js:428 Sidebar user data: {id: 2, email: 'wladyslaw.krawiec@gmail.com', username: 'wkrawiec', firstName: 'Walter', lastName: 'Taylor', …}

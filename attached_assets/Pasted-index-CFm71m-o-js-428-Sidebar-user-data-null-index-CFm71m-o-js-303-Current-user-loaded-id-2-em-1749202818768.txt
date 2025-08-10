@@ -1,0 +1,85 @@
+index-CFm71m_o.js:428 Sidebar user data: null
+index-CFm71m_o.js:303 Current user loaded: {id: 2, email: 'wladyslaw.krawiec@gmail.com', username: 'wkrawiec', firstName: 'Walter', lastName: 'Taylor', …}
+index-CFm71m_o.js:428 Sidebar user data: {id: 2, email: 'wladyslaw.krawiec@gmail.com', username: 'wkrawiec', firstName: 'Walter', lastName: 'Taylor', …}
+index-CFm71m_o.js:343 
+            
+            
+            GET https://7b31f4d2-f9fb-484d-a601-6f12d2472213.picard.prod.repl.run/api/opportunities/undefined 400 (Bad Request)
+getById @ index-CFm71m_o.js:343
+queryFn @ index-CFm71m_o.js:420
+a @ index-CFm71m_o.js:48
+v @ index-CFm71m_o.js:48
+start @ index-CFm71m_o.js:48
+fetch @ index-CFm71m_o.js:48
+ld @ index-CFm71m_o.js:48
+onSubscribe @ index-CFm71m_o.js:48
+subscribe @ index-CFm71m_o.js:48
+(anonymous) @ index-CFm71m_o.js:48
+TT @ index-CFm71m_o.js:38
+Zv @ index-CFm71m_o.js:40
+ec @ index-CFm71m_o.js:40
+PO @ index-CFm71m_o.js:40
+rs @ index-CFm71m_o.js:38
+X8 @ index-CFm71m_o.js:40
+ps @ index-CFm71m_o.js:40
+u2 @ index-CFm71m_o.js:40
+j @ index-CFm71m_o.js:25
+N @ index-CFm71m_o.js:25
+[NEW] Explain Console errors by using Copilot in Edge: click
+         
+         to explain an error. 
+        Learn more
+        Don't show again
+index-CFm71m_o.js:343 
+            
+            
+            GET https://7b31f4d2-f9fb-484d-a601-6f12d2472213.picard.prod.repl.run/api/student-preferences 500 (Internal Server Error)
+get @ index-CFm71m_o.js:343
+queryFn @ index-CFm71m_o.js:420
+a @ index-CFm71m_o.js:48
+v @ index-CFm71m_o.js:48
+start @ index-CFm71m_o.js:48
+fetch @ index-CFm71m_o.js:48
+ld @ index-CFm71m_o.js:48
+onSubscribe @ index-CFm71m_o.js:48
+subscribe @ index-CFm71m_o.js:48
+(anonymous) @ index-CFm71m_o.js:48
+TT @ index-CFm71m_o.js:38
+Zv @ index-CFm71m_o.js:40
+ec @ index-CFm71m_o.js:40
+PO @ index-CFm71m_o.js:40
+rs @ index-CFm71m_o.js:38
+X8 @ index-CFm71m_o.js:40
+ps @ index-CFm71m_o.js:40
+u2 @ index-CFm71m_o.js:40
+j @ index-CFm71m_o.js:25
+N @ index-CFm71m_o.js:25
+index-CFm71m_o.js:48 
+            
+            
+            POST https://7b31f4d2-f9fb-484d-a601-6f12d2472213.picard.prod.repl.run/api/student-preferences 400 (Bad Request)
+Dt @ index-CFm71m_o.js:48
+set @ index-CFm71m_o.js:343
+fn @ index-CFm71m_o.js:48
+v @ index-CFm71m_o.js:48
+start @ index-CFm71m_o.js:48
+execute @ index-CFm71m_o.js:48
+await in execute
+mutate @ index-CFm71m_o.js:48
+(anonymous) @ index-CFm71m_o.js:48
+f @ index-CFm71m_o.js:420
+(anonymous) @ index-CFm71m_o.js:303
+await in (anonymous)
+g @ index-CFm71m_o.js:420
+yB @ index-CFm71m_o.js:37
+xB @ index-CFm71m_o.js:37
+bB @ index-CFm71m_o.js:37
+Z_ @ index-CFm71m_o.js:37
+vT @ index-CFm71m_o.js:37
+(anonymous) @ index-CFm71m_o.js:37
+Kj @ index-CFm71m_o.js:40
+Bk @ index-CFm71m_o.js:37
+qg @ index-CFm71m_o.js:37
+jj @ index-CFm71m_o.js:37
+$B @ index-CFm71m_o.js:37
+index-CFm71m_o.js:428 Sidebar user data: {id: 2, email: 'wladyslaw.krawiec@gmail.com', username: 'wkrawiec', firstName: 'Walter', lastName: 'Taylor', …}
